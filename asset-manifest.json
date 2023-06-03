@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BuscadorCepReact/static/css/main.a26c82f8.css",
+    "main.js": "/BuscadorCepReact/static/js/main.f612132f.js",
+    "index.html": "/BuscadorCepReact/index.html",
+    "main.a26c82f8.css.map": "/BuscadorCepReact/static/css/main.a26c82f8.css.map",
+    "main.f612132f.js.map": "/BuscadorCepReact/static/js/main.f612132f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a26c82f8.css",
+    "static/js/main.f612132f.js"
+  ]
+}
